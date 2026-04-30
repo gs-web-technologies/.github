@@ -2,7 +2,7 @@
 
 **GS Web Technologies** is a digital marketing and software development company focused on delivering high-quality web, mobile, and digital solutions for businesses worldwide.
 
-Founded in **2008**, we help companies build a strong digital presence through innovative technology, strategic marketing, and scalable software solutions.
+Founded in **2015**, we help companies build a strong digital presence through innovative technology, strategic marketing, and scalable software solutions.
 
 🌐 Website: https://gswebtech.com
 
@@ -80,7 +80,7 @@ We build custom software solutions tailored to specific business needs.
 
 ## 🏆 Company Highlights
 
-- Founded in **2008**
+- Founded in **2015**
 - **1000+ satisfied clients**
 - **1500+ completed projects**
 - Global client base
