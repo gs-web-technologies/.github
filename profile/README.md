@@ -84,7 +84,7 @@ We build custom software solutions tailored to specific business needs.
 - **1000+ satisfied clients**
 - **1500+ completed projects**
 - Global client base
-- Offices in **India and Canada** :contentReference[oaicite:1]{index=1}
+- Offices in **India and Canada**
 
 ---
 
